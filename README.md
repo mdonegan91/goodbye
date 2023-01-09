@@ -2,7 +2,7 @@
 
 #### By _**Molly Donegan**_
 
-#### _A test website for working with HTML
+#### A test website for working with HTML
 
 ## Technologies Used
 
